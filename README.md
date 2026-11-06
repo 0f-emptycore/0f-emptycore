@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<sub>BACKEND&nbsp; · &nbsp;APIs&nbsp; · &nbsp;AUTOMATION</sub>
+<sub>BACKEND&nbsp; · &nbsp;APIs&nbsp; · &nbsp;AUTOMATION&nbsp; · &nbsp;BOTS&nbsp; · &nbsp;TELEGRAM&nbsp; · &nbsp;EXPERIMENTAL UTILITIES</sub>
 
 <br/><br/>
 
