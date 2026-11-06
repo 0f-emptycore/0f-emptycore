@@ -46,11 +46,15 @@ mindset: Build. Break. Improve.
 
 </div>
 
-### `04 / ACTIVITY`
+### `04 / ALWAYS BUILDING`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0f-emptycore&bg_color=09090f&color=c4c4d4&line=8b5cf6&point=a78bfa&area=true&hide_border=true" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=500&lines=Initializing+next+project...;Writing+code...;Debugging...;Building+something+new..." />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=0f-emptycore&theme=transparent&hide_border=true&background=09090f&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4c4d4&dates=777788&mode=weekly" width="95%" />
 
 </div>
 
