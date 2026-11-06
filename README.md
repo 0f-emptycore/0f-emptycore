@@ -12,4 +12,10 @@
 
 <sub>BACKEND&nbsp; · &nbsp;APIs&nbsp; · &nbsp;AUTOMATION</sub>
 
+<br/><br/>
+
+<a href="https://t.me/btwempty"><img src="https://img.shields.io/badge/Telegram-btwempty-111019?style=flat&logo=telegram&logoColor=B69CFF" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Discord-btwempty-111019?style=flat&logo=discord&logoColor=B69CFF" />
+
 </div>
