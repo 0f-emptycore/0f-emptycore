@@ -1,13 +1,12 @@
- <!-- profile README -->
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,50:31205c,100:09090f&text=0f-emptycore&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=building%20in%20the%20dark&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:08080D,50:30204F,100:08080D&text=0f-emptycore&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=building%20in%20the%20dark&descAlignY=58&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Developer+%26+Creator;Building+tools%2C+bots+%26+experiments;Turning+ideas+into+code;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=500&lines=Developer+%26+Creator;Building+tools%2C+bots+%26+experiments;Turning+ideas+into+code;Always+learning.+Always+building." />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0f--emptycore-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/0f-emptycore)
+![Profile Views](https://komarev.com/ghpvc/?username=0f-emptycore&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -24,6 +23,7 @@ interests:
   - Software development
   - Experimental projects
 mindset: Build. Break. Improve.
+status: Always building
 ```
 
 ### `02 / TECH STACK`
@@ -42,19 +42,37 @@ mindset: Build. Break. Improve.
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0f-emptycore&layout=compact&hide_border=true&bg_color=09090f&title_color=a78bfa&text_color=c4c4d4" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=0f-emptycore&theme=transparent&hide_border=true&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4c4d4&dates=777788" />
-
 </div>
 
-### `04 / ALWAYS BUILDING`
+### `04 / CONSISTENCY`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=500&lines=Initializing+next+project...;Writing+code...;Debugging...;Building+something+new..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=400&lines=Consistency+is+everything.;Never+stop+building.;One+more+commit..." />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=0f-emptycore&theme=transparent&hide_border=true&background=09090f&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4c4d4&dates=777788&mode=weekly" width="95%" />
+<img src="https://img.shields.io/badge/🔥_BUILDING_STREAK-30%2B_DAYS-8b5cf6?style=for-the-badge&labelColor=09090f" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS_ACTIVE-171322?style=flat-square&logo=github&logoColor=a78bfa&labelColor=09090f" />
+<img src="https://img.shields.io/badge/MODE-FOCUSED-171322?style=flat-square&labelColor=09090f&color=171322" />
+
+</div>
+
+### `05 / CURRENT MODE`
+
+<div align="center">
+
+```text
+> Initializing workspace...
+> Loading ideas...
+> Writing code...
+> Fixing bugs...
+> Improving everything...
+> Status: OPERATIONAL
+```
 
 </div>
 
@@ -62,7 +80,7 @@ mindset: Build. Break. Improve.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:31205c,100:09090f&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080D,50:30204F,100:08080D&height=100&section=footer" width="100%" />
 
 <sub>© 0f-emptycore · Made with curiosity.</sub>
 
