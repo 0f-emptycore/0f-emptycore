@@ -27,14 +27,6 @@
 <img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode&theme=dark" />
 
 </div>
-## Contribution activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0f-emptycore&bg_color=0D0B12&color=C9C4D4&line=9B7BDB&point=B69CFF&area=true&area_color=30204A&hide_border=true" width="100%" />
-
-</div>
-
 ---
 
 <div align="center">
