@@ -14,25 +14,6 @@
 </div>
 
 ---
-
-## About me
-
-- Developer focused on practical tools and backend projects
-- Currently building a college schedule API
-- Interested in APIs, automation and bot development
-
-## Focus areas
-
-<div align="center">
-
-| Backend | Automation | Development |
-|:---:|:---:|:---:|
-| REST APIs | Scripts | Python |
-| FastAPI | Bots | JavaScript / TypeScript |
-| Data parsing | Integrations | Git |
-
-</div>
-
 ## Languages & tools
 
 <div align="center">
@@ -46,29 +27,6 @@
 <img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode&theme=dark" />
 
 </div>
-
-## Featured work
-
-**YAKUIPT Schedule API**
-
-A REST API for parsing and serving college schedule data. Built with Python and FastAPI.
-
-<sub>Repository currently private</sub>
-
-## GitHub statistics
-
-<div align="center">
-
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=0f-emptycore&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=B69CFF&icon_color=9B7BDB&text_color=C9C4D4&ring_color=9B7BDB&include_all_commits=true" />
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=0f-emptycore&layout=compact&hide_border=true&bg_color=0D0B12&title_color=B69CFF&text_color=C9C4D4" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=0f-emptycore&hide_border=true&background=0D0B12&ring=9B7BDB&fire=B69CFF&currStreakLabel=B69CFF&sideLabels=C9C4D4&dates=777180&currStreakNum=F4F0FF&sideNums=F4F0FF" />
-
-<br/><br/>
-</div>
-
 ## Contribution activity
 
 <div align="center">
