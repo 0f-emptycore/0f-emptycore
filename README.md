@@ -1,78 +1,45 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:08080D,50:30204F,100:08080D&text=0f-emptycore&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=building%20in%20the%20dark&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:07070B,45:171126,100:07070B&text=0f-emptycore&fontColor=F4F0FF&fontSize=58&fontAlignY=38&animation=fadeIn&desc=BUILDING%20IN%20THE%20DARK&descAlignY=60&descSize=13" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=500&lines=Developer+%26+Creator;Building+tools%2C+bots+%26+experiments;Turning+ideas+into+code;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1000&color=B69AFF&center=true&vCenter=true&width=560&lines=developer+%2F+builder;bots%2C+automation+%26+useful+tools;turning+ideas+into+working+things" alt="Typing intro" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=0f-emptycore&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://img.shields.io/badge/FOCUS-AUTOMATION-171322?style=flat-square&labelColor=09090D&color=8B5CF6" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-171322?style=flat-square&labelColor=09090D&color=8B5CF6" />
 
 </div>
 
 ---
 
-### `01 / ABOUT`
+### 01 / ABOUT
 
-```yaml
-username: 0f-emptycore
-role: Developer
-interests:
-  - Automation
-  - Bots & tools
-  - Software development
-  - Experimental projects
-mindset: Build. Break. Improve.
-status: Always building
-```
+I build tools, bots and small experiments — turning ideas into practical software.
 
-### `02 / TECH STACK`
+- **Focus** — automation, bots, utilities
+- **Stack** — Python, JavaScript, TypeScript
+- **Mindset** — build → test → improve
+
+### 02 / TOOLKIT
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,git,github,vscode&theme=dark" alt="Tech stack" />
 
 </div>
 
-### `03 / GITHUB STATS`
+### 03 / BUILD MODE
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0f-emptycore&show_icons=true&hide_border=true&bg_color=09090f&title_color=a78bfa&icon_color=8b5cf6&text_color=c4c4d4&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0f-emptycore&layout=compact&hide_border=true&bg_color=09090f&title_color=a78bfa&text_color=c4c4d4" />
-
-</div>
-
-### `04 / CONSISTENCY`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=400&lines=Consistency+is+everything.;Never+stop+building.;One+more+commit..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2400&pause=700&color=A78BFA&center=true&vCenter=true&width=480&lines=one+more+iteration...;fixing+what+is+broken;making+it+a+little+better;consistency+over+noise" alt="Build mode" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/🔥_BUILDING_STREAK-30%2B_DAYS-8b5cf6?style=for-the-badge&labelColor=09090f" />
+<img src="https://img.shields.io/badge/BUILDING_STREAK-30%2B_DAYS-8B5CF6?style=for-the-badge&labelColor=09090D" alt="Decorative 30+ days badge" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_ACTIVE-171322?style=flat-square&logo=github&logoColor=a78bfa&labelColor=09090f" />
-<img src="https://img.shields.io/badge/MODE-FOCUSED-171322?style=flat-square&labelColor=09090f&color=171322" />
-
-</div>
-
-### `05 / CURRENT MODE`
-
-<div align="center">
-
-```text
-> Initializing workspace...
-> Loading ideas...
-> Writing code...
-> Fixing bugs...
-> Improving everything...
-> Status: OPERATIONAL
-```
+<sub>Decorative badge — not live GitHub activity data.</sub>
 
 </div>
 
@@ -80,8 +47,6 @@ status: Always building
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080D,50:30204F,100:08080D&height=100&section=footer" width="100%" />
-
-<sub>© 0f-emptycore · Made with curiosity.</sub>
+<sub>0f-emptycore · BUILT WITH CURIOSITY</sub>
 
 </div>
