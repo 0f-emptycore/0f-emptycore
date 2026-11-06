@@ -59,17 +59,14 @@ A REST API for parsing and serving college schedule data. Built with Python and 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=0f-emptycore&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=B69CFF&icon_color=9B7BDB&text_color=C9C4D4&ring_color=9B7BDB&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0f-emptycore&layout=compact&hide_border=true&bg_color=0D0B12&title_color=B69CFF&text_color=C9C4D4" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=0f-emptycore&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=B69CFF&icon_color=9B7BDB&text_color=C9C4D4&ring_color=9B7BDB&include_all_commits=true" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=0f-emptycore&layout=compact&hide_border=true&bg_color=0D0B12&title_color=B69CFF&text_color=C9C4D4" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=0f-emptycore&hide_border=true&background=0D0B12&ring=9B7BDB&fire=B69CFF&currStreakLabel=B69CFF&sideLabels=C9C4D4&dates=777180&currStreakNum=F4F0FF&sideNums=F4F0FF" />
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=0f-emptycore&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=8" />
-
 </div>
 
 ## Contribution activity
