@@ -6,7 +6,9 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,git,github,vscode&theme=dark" />
+<a href="https://t.me/btwempty"><img src="https://img.shields.io/badge/Telegram-btwempty-111019?style=flat&logo=telegram&logoColor=B69CFF" /></a>
+&nbsp;
+<a href="https://discord.com/users/274939861071429632"><img src="https://img.shields.io/badge/Discord-btwempty-111019?style=flat&logo=discord&logoColor=B69CFF" /></a>
 
 <br/><br/>
 
@@ -14,8 +16,6 @@
 
 <br/><br/>
 
-<a href="https://t.me/btwempty"><img src="https://img.shields.io/badge/Telegram-btwempty-111019?style=flat&logo=telegram&logoColor=B69CFF" /></a>
-&nbsp;
-<a href="https://discord.com/users/274939861071429632"><img src="https://img.shields.io/badge/Discord-btwempty-111019?style=flat&logo=discord&logoColor=B69CFF" /></a>
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,git,github,vscode&theme=dark" />
 
 </div>
